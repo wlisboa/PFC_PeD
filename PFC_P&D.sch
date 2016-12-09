@@ -1,0 +1,125 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:PFC_P&D
+LIBS:PFC_P&D01
+LIBS:PFC_P&D-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L R R?
+U 1 1 5845821E
+P 1850 1600
+F 0 "R?" V 1930 1600 50  0000 C CNN
+F 1 "R" V 1850 1600 50  0000 C CNN
+F 2 "" V 1780 1600 50  0000 C CNN
+F 3 "" H 1850 1600 50  0000 C CNN
+	1    1850 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R?
+U 1 1 5845852C
+P 1850 1800
+F 0 "R?" V 1930 1800 50  0000 C CNN
+F 1 "R" V 1850 1800 50  0000 C CNN
+F 2 "" V 1780 1800 50  0000 C CNN
+F 3 "" H 1850 1800 50  0000 C CNN
+	1    1850 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R?
+U 1 1 58458797
+P 1850 2000
+F 0 "R?" V 1930 2000 50  0000 C CNN
+F 1 "R" V 1850 2000 50  0000 C CNN
+F 2 "" V 1780 2000 50  0000 C CNN
+F 3 "" H 1850 2000 50  0000 C CNN
+	1    1850 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R?
+U 1 1 58458975
+P 1850 2200
+F 0 "R?" V 1930 2200 50  0000 C CNN
+F 1 "R" V 1850 2200 50  0000 C CNN
+F 2 "" V 1780 2200 50  0000 C CNN
+F 3 "" H 1850 2200 50  0000 C CNN
+	1    1850 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R?
+U 1 1 5845897B
+P 1850 2400
+F 0 "R?" V 1930 2400 50  0000 C CNN
+F 1 "R" V 1850 2400 50  0000 C CNN
+F 2 "" V 1780 2400 50  0000 C CNN
+F 3 "" H 1850 2400 50  0000 C CNN
+	1    1850 2400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R?
+U 1 1 58458981
+P 1850 2600
+F 0 "R?" V 1930 2600 50  0000 C CNN
+F 1 "R" V 1850 2600 50  0000 C CNN
+F 2 "" V 1780 2600 50  0000 C CNN
+F 3 "" H 1850 2600 50  0000 C CNN
+	1    1850 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L AT90USB1287 IC?
+U 1 1 584ADE19
+P 4350 4450
+F 0 "IC?" H 3400 7525 50  0000 L BNN
+F 1 "AT90USB1287" H 4700 2250 50  0000 L BNN
+F 2 "TQFP64" H 4050 6000 50  0000 C CIN
+F 3 "" H 4300 6250 50  0000 C CNN
+	1    4350 4450
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
